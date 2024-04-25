@@ -1,8 +1,22 @@
-# React + Vite
+# Overview
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Display the famous phrase 'Hello, World!' using React and Bootstrap.
 
-Currently, two official plugins are available:
+Overall, this code defines a React component that renders a simple webpage layout with Bootstrap styling, displaying the text "Hello World from React!!" within a decorated content area.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is created with the purpose of demonstrating that I have the appropriate setup for the development of applications.
+
+[Software Demo Video](https://youtu.be/THVLBjpy0eM)
+
+# Development Environment
+
+- Visual Studio Code
+- React (Vite)
+- Bootstrap
+
+React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript.
+
+# Useful Websites
+
+* [Learning React](https://react.dev/learn)
+* [Bootstrap Page](https://getbootstrap.com/)
