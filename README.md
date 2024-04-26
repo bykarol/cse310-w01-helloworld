@@ -6,8 +6,8 @@ Overall, this code defines a React component that renders a simple webpage layou
 
 This project is created with the purpose of demonstrating the use of Visual Studio Code, GitHub Pages, and React (Vite) integrated together.
 
-[Software Demo Video](https://youtu.be/THVLBjpy0eM)
-[Deploy site](bykarol.github.io/react-ghpages/)
+* [Software Demo Video](https://youtu.be/THVLBjpy0eM)
+* [Deploy site](https://bykarol.github.io/react-ghpages/)
 
 # Development Environment
 
