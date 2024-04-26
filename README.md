@@ -2,7 +2,7 @@
 
 ## Deploy a React api using GitHub Pages.
 
-Overall, this code defines a React component that renders a simple webpage layout with Bootstrap styling, displaying the text "Hello World from React!!" within a decorated content area, and using GitHub Pages.
+Overall, this code defines a React component that renders a simple webpage layout with Bootstrap styling, displaying the text "Hello World from React and GitHub Pages!!" within a decorated content area, and using GitHub Pages.
 
 This project is created with the purpose of demonstrating the use of Visual Studio Code, GitHub Pages, and React (Vite) integrated together.
 
